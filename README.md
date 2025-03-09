@@ -1,10 +1,10 @@
 This is a Third Year Sem VI Section(A)Project of a Learning Managment System from University of Information Technology.
 
 Contributors:
-Khin Myat Noe
-Thin Su Htet
-Myat Thwel Tun
-Linn Thant
+Khin Myat Noe,
+Thin Su Htet,
+Myat Thwel Tun,
+Linn Thant,
 Kaung Myat Kyaw
 
 # React + Vite
